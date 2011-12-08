@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.beerdropper;
+package com.BeerDropper.www;
 
 import android.os.Bundle;
 import android.app.Dialog;

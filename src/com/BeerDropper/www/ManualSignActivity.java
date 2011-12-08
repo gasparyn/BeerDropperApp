@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.beerdropper;
+package com.BeerDropper.www;
 
 import java.io.File;
 import java.io.FileOutputStream;

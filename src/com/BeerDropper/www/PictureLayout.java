@@ -1,4 +1,4 @@
-package com.beerdropper;
+package com.BeerDropper.www;
 
 import android.content.Context;
 import android.graphics.Canvas;
